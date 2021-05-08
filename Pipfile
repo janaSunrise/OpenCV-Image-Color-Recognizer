@@ -10,5 +10,5 @@ click = "*"
 
 [dev-packages]
 
-[requires]
-python_version = "3.8"
+[scripts]
+start = "python -m recognizer"
