@@ -13,6 +13,8 @@ Here's how to install the dependencies, and get started.
 - Now, to run the Color Recognition on a certain image, Use the command: `pipenv run start -i <path/to/image>`,
   Where `<path/to/image>` needs to be replaced with the actual path to image.
 
+**Note**: You can use `image.jpg` added in repo to test, And hit the `esc` key to exit out of the program.
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome. After cloning & setting up project locally, you can just submit 
